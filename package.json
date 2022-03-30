@@ -3,11 +3,6 @@
     "concurrently": "^7.0.0",
     "nodemon": "^2.0.15"
   },
-  "dependencies": {
-    "express": "^4.17.3",
-    "mongodb": "^4.4.1",
-    "mongoose": "^6.2.9"
-  },
   "name": "dontgothere",
   "description": "*a MERN stack webapp listing the very worst of your city* ___",
   "version": "0.0.1",
