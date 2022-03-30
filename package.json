@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/arielrazon/dontGoThere_react/issues"
   },
-  "homepage": "https://github.com/arielrazon/dontGoThere_react#readme"
+  "homepage": "https://github.com/arielrazon/dontGoThere_react#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  }
 }
